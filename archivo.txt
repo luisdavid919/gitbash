@@ -1,0 +1,2 @@
+Mi primer repositorio git desde bash
+Mi nombre es Luis David Ramirez
